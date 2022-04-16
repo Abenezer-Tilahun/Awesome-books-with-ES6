@@ -2,12 +2,39 @@
 
 # Awesome books
 
-![screenshot](./images/Screenshoot.PNG)
-
 > This is a team project in the Microverse second Module. The project is a book application that enables a user to add and remove books to a list
 
+![screenshot](./images/Project-screenshot.gif)
+
 The goal of the project is to build the application using Vanilla JavaScript and ES6 Modules.   
+
 Click [here](https://abenezer-tilahun.github.io/Awesome-books-with-ES6/) to get a live preview of the project
+
+# Features implemented so far are:
+
+- Responsive HTML page
+- Add book feature
+- Remove book feature
+- Saving current state of book list to local storage
+
+# Built With
+
+- Lighthouse (An open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, SEO and more).
+- Webhint (A customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors).
+- Stylelint (A mighty, modern linter that helps you avoid errors and enforce conventions in your styles).
+- ESlint (A mighty, modern linter that helps you avoid errors and enforce conventions in JavaScript codes)
+
+To get a local copy up and running follow these simple example steps.
+
+# Prerequisites
+
+The basic requirements for building the executable are:
+
+-  A working browser application (Google chrome, Mozilla Fire fox, Microsoft edge ...)
+- VSCode or any other equivalent code editor.
+- Node Package Manager (For installing packages like Lighthous, webhint & stylelint used for checking for debugging bad codes before deployment).
+
+# Getting Started
 
 #### Cloning the project
 ```
@@ -54,7 +81,7 @@ Feel free to check the [issues page](../../issues/).
 
 - GitHub: [@githubhandle](https://github.com/Abenezer-Tilahun)
 - Twitter: [@twitterhandle](https://twitter.com/AbenezerTilah11)
-- LinkedIn: [LinkedIn](linkedin.com/in/abenezer-tilahun-4b4b43137)
+- LinkedIn: [LinkedIn](linkedin.com/in/abenezer-tilahun/)
 
 ## Show your support
 
